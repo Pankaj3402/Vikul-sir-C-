@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Sorting Operators", "3-So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Grouping Operator", "4-Grouping Operator\4-Grouping Operator.csproj", "{302014CA-D9D9-49FF-A67B-3849F8838D7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{8295F65A-8033-46CD-A8EE-7349941247A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,10 @@ Global
 		{302014CA-D9D9-49FF-A67B-3849F8838D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302014CA-D9D9-49FF-A67B-3849F8838D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302014CA-D9D9-49FF-A67B-3849F8838D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8295F65A-8033-46CD-A8EE-7349941247A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8295F65A-8033-46CD-A8EE-7349941247A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8295F65A-8033-46CD-A8EE-7349941247A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8295F65A-8033-46CD-A8EE-7349941247A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

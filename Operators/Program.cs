@@ -54,7 +54,7 @@
 
 //Console.WriteLine($"a:{a}"); //12
 
-//a--;
+//a--; a=-2;
 //Console.WriteLine($"a:{a}"); // post decrement  //11
 
 //--a;
@@ -160,6 +160,8 @@
 
 //b1 = a1 > 15 || a2 < 15;
 //Console.WriteLine($"a1>15 || a2 < 15:{b1}"); //false
+
+
 
 
 

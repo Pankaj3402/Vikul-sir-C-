@@ -78,86 +78,89 @@
 //string[] output = new string[ words.Length ];
 
 //for (int i = words.Length - 1, j = 0; i >= 0; i--, j++)
-    //{
-    //    output[j] = words[i];
-    //}
-    //foreach (string w in output)
-    //{
-    //    Console.Write($" {w} ");
-    //}
-    //Console.ReadLine();
-    #endregion
-
-
-    ///Array in looping statement
-
-    //string[] names = new string[3];
-
-    //Console.WriteLine($"number of students : {names.Length}");
-
-    //names[0] = "pankaj";
-    //names[1] = "kiran";
-    //names[2] = "pranali";
-
-    //for(int i = 0; i < names.Length; i++)
-    //{
-    //    Console.WriteLine($"{names[i]} \t" );
-    //}
-    //Console.ReadLine();
-
-
-    //int[] numbers = new int[3] {10,20,30};
-    //Console.WriteLine($"total numbers = {numbers.Length}");
-
-    //for(int i = 0;i< numbers.Length;i++)
-    //{
-    //    Console.WriteLine($"{numbers[i]} \t");
-    //}
-
-
-
-    //prime number
-
-    //Console.WriteLine($"please enter a number");
-    //int num = int.Parse( Console.ReadLine() );
-
-    //bool isprime = true;
-
-    //for ( int i = 2; i < num; i++ )
-    //{
-    //    if (num % i == 0)
-    //    {
-    //         isprime = false;
-    //        break;
-    //    }
-
-
-    //}
-    //string PrimeResult = isprime ? "Prime" : "Not Prime";
-    //Console.WriteLine($"Your Entered number {num} is {PrimeResult} number");
-
-    //Console.ReadLine();
+//{
+//    output[j] = words[i];
+//}
+//foreach (string w in output)
+//{
+//    Console.Write($" {w} ");
+//}
+//Console.ReadLine();
+#endregion
 
 
 
 
-    //reverse string example
 
-    //Console.WriteLine("please enter a string");
-    //string input = Console.ReadLine();
+///Array in looping statement
 
-    //string reversestring = string.Empty;
+//string[] names = new string[3];
 
-    //for(int i = input.Length -1; i >= 0; i--)
-    //{
-    //    reversestring += input [i]; 
-    //}
-    //Console.WriteLine($"input : {input} reversedstring : {reversestring}");
-    //Console.ReadLine();
+//Console.WriteLine($"number of students : {names.Length}");
+
+//names[0] = "pankaj";
+//names[1] = "kiran";
+//names[2] = "pranali";
+
+//for(int i = 0; i < names.Length; i++)
+//{
+//    Console.WriteLine($"{names[i]} \t" );
+//}
+//Console.ReadLine();
+
+
+//int[] numbers = new int[3] {10,20,30};
+//Console.WriteLine($"total numbers = {numbers.Length}");
+
+//for(int i = 0;i< numbers.Length;i++)
+//{
+//    Console.WriteLine($"{numbers[i]} \t");
+//}
 
 
 
-    //reverse word in sentence
+//prime number
+
+//Console.WriteLine($"please enter a number");
+//int num = int.Parse( Console.ReadLine() );
+
+//bool isprime = true;
+
+//for ( int i = 2; i < num; i++ )
+//{
+//    if (num % i == 0)
+//    {
+//         isprime = false;
+//        break;
+//    }
+
+
+//}
+//string PrimeResult = isprime ? "Prime" : "Not Prime";
+//Console.WriteLine($"Your Entered number {num} is {PrimeResult} number");
+
+//Console.ReadLine();
+
+
+
+
+//reverse string example
+
+//Console.WriteLine("please enter a string");
+//string input = Console.ReadLine();
+
+//string reversestring = string.Empty;
+
+//for(int i = input.Length -1; i >= 0; i--)
+//{
+//    reversestring += input [i]; 
+//}
+//Console.WriteLine($"input : {input} reversedstring : {reversestring}");
+//Console.ReadLine();
+
+
+
+//reverse word in sentence
 
 
 //Console.WriteLine("please enter a sentence");

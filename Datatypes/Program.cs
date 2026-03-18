@@ -91,7 +91,7 @@
 
 //Console.WriteLine(name.ToLower()); // ToLower() method
 
-//string name1  = "   Pankaj";
+//string name1 = "   Pankaj";
 //Console.WriteLine(name1.Trim());  //trim() method to remove leading and trailing spaces
 
 #endregion
@@ -135,20 +135,20 @@
 
 #endregion
 
-    #region string formatting
+#region string formatting
 
 
-    ///// placeholder syntax
+///// placeholder syntax
 
-    //fullname = string.Format("fullname:{0} {1} {2}", FirstName, middlename, LastName);  //placeholder syntax 
-    //Console.WriteLine(fullname);
+//fullname = string.Format("fullname:{0} {1} {2}", FirstName, middlename, LastName);  //placeholder syntax 
+//Console.WriteLine(fullname);
 
-    ///// interpolated string syntax
+///// interpolated string syntax
 
-    //fullname = $"full name : {FirstName} {middlename} {LastName}";
-    //Console.WriteLine(fullname);
+//fullname = $"full name : {FirstName} {middlename} {LastName}";
+//Console.WriteLine(fullname);
 
-    #endregion
+#endregion
 
 #region indexof() method
 
